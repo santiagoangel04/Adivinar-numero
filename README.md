@@ -6,3 +6,4 @@ es un proyecto basico del curso de logica de programacion, y cursos propios de l
 ![Imagen inicio del juego.](/ImgPort/inicioJuego.png)
 ### Usos del juego
 1. **Ingreso de datos**: Este juego esta diseñado para que unicamente su dato de entrada sea un entero.
+2. una vez ingresado el numero darle en el boton de intentar lo que hara es verificar internamente si el numero es correcto
